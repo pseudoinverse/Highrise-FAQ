@@ -32,7 +32,7 @@ python3 main.py
 The chatbot will be accessible at `http://localhost:8000`, where you can interact with the chatbot interface. 
 Note that the first user message may take longer to process as the chatbot loads the spaCy NLP model.
 
-Additionally, you can find logs by indexing `http://localhost:8001/chat_message/{index}`.
+Additionally, you can find logs by indexing `http://localhost:8000/chat_message/{index}`.
 
 ### Scrape the latest FAQ data
 
