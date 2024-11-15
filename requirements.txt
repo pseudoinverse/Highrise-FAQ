@@ -1,7 +1,7 @@
 openai
-python-fasthtml
 spacy_universal_sentence_encoder
 beautifulsoup4==4.9.3
 claudette>=0.0.8
 requests==2.32.0
 uvicorn>=0.29
+python-fasthtml==0.9.1
